@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam Sourav</h1>
-<h3 align="center">A passionate web developer & self-learning programmer. Loves working with JS 😁</h3>
+<h3 align="center">A passionate programmer, problem solver, and software developer. Loves working with C, C++, Javascript & Python 😁</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development.**
+- 🌱 I’m currently focusing on **Problem solving and DSA.**
 
-- 💬 Ask me about **Javascript & React**
+- 💬 Ask me about **Problem Solving, Javascript and Mern Stack**
 
-- 📫 How to reach me **sorabsorab347@gmail.com**
+- 📫 How to reach me **sharifulsourav016@gmail.com**
 
-- ⚡ Fun fact **I am lazy while watching tutorials😁**
+- ⚡ Fun fact **It's actually fun to code when you find the solution to a problem😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
