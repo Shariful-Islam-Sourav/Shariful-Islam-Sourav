@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam Sourav</h1>
 <h3 align="center">A passionate programmer, problem solver, and software developer. Loves working with C, C++, Javascript & Python 😁</h3>
 
-- 🌱 I’m currently focusing on **Problem solving and DSA.**
+- 🌱 I’m currently focusing on **Problem solving and Core concepts of Computer Engineering.**
 
 - 💬 Ask me about **Problem Solving, Javascript and Mern Stack**
 
