@@ -9,10 +9,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🇧🇩 From Bangladesh &nbsp;•&nbsp; 🇰🇷 Studying in South Korea <br>
-💻 MERN Stack Developer &nbsp;•&nbsp; 📈 Future Agency Owner <br>
-🧠 Learning DSA & Problem Solving <br>
-💼 Building skills for Freelancing & Remote Work
+🇧🇩 From Bangladesh &nbsp;•&nbsp; 🇰🇷 Studying in Sejong Univ. Korea <br>
+💻 WebApps Developer &nbsp;•&nbsp; 📈 Computer Engineering <br>
+🧠 Problem Solver <br>
+💼 
 </p>
 
 ---
